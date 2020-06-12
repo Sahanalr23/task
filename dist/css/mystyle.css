@@ -1,0 +1,52 @@
+body{
+	
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+display: block;
+height: auto;
+max-width: 100%;
+line-height: 1;
+width: 100%;
+}
+
+.carousel-caption h1 {
+	margin-top:-800px;
+	font-weight:bold;
+	font-size:40px;
+	font-family:timesofroman;
+}
+.carousel-caption h3 {
+	margin-top:-650px;
+}
+.carousel-content button {
+	margin-top:-1500px;
+}
+
+.b1{
+	margin-left:550px;
+}
+
+.t1 {
+	font-family:timesofroman;
+	font-weight:bold;
+	font-size:35px;
+	color:white;
+	text-decoration:none;
+}
+
+.t2 li a b {
+	color:white;
+	font-family:timesofroman;
+}
+
+ .carousel-content button {
+	 border:1px solid navy;
+     border-radius:10px;
+	 padding:10px;
+	 color:navy;
+	 font-family:timesofroman;
+	 font-size:15px;
+	 font-weight:bold;
+	 width:200px;
+}
